@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
 // Printing fixed (hard-coded) text
-	cout << "Mete eats hambuger." << endl;
+	cout << "Mete eats hamburger." << endl;
 	cout << "Mete drinks coke." << endl;
 	cout << "Mete is 22 years old." << endl;
   
