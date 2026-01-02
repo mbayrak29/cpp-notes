@@ -19,7 +19,6 @@ int main()
     cout << "i: " << i << endl;
     cout << "Finish" << endl;
     */
-
     int start, finish;
 
     cout << "Please enter the starting number: ";
