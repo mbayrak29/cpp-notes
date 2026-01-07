@@ -15,7 +15,7 @@ using namespace std;
     Prints a default error message
 */
 void showError()
-{
+{ 
     cout << "Error!" << endl;
 }
 
