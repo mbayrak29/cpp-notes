@@ -1,5 +1,5 @@
 /*
-    File: 08_dynamic_array_sum.cpp
+    File: 07_dynamic_array_sum.cpp
     Topic: Dynamic Memory Allocation (Array)
     Description:
     This program dynamically allocates an integer array using `new[]`
