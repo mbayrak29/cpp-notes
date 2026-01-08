@@ -3,7 +3,7 @@
     Topic: Random Number Generation & Functions
     Description:
     This example shows how to generate random numbers in C++
-    using rand(), srand() and time().
+    using rand(), srand() and time(). 
     A function is used to generate a random number
     between a given minimum and maximum value.
 */
